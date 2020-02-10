@@ -1,4 +1,7 @@
-<style>
+
+body{
+    background-color: cornflowerblue;
+}
 
 {
     margin:0;
@@ -79,7 +82,9 @@ label[for="bt_menu"]{
     list-style: none;
 }
 
+.fonts {
+    font-style: italic;
+    
+}
 
 
-
- </style>
