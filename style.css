@@ -92,3 +92,7 @@ label[for="bt_menu"] {
 .fonts {
     font-style: italic;
 }
+
+.botão-contato {
+    margin: 1%;
+}
